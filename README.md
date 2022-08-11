@@ -1,6 +1,6 @@
 # About realSamy!!
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=realSamy)
-[![Python](https://img.shields.io/badge/Telegram-b8e9ff?style=flat&logo=telegram)](https://telegram.org/realSamy)
+[![Python](https://img.shields.io/badge/Telegram-b8e9ff?style=flat&logo=telegram)](https://t.me/realSamy)
 [![Python](https://img.shields.io/badge/Instagram-ffbde7?style=flat&logo=instagram)](https://instagram.com/realSamyPV)
 
 
