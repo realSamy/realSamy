@@ -1,34 +1,37 @@
-# About realSamy!!
+# 👋 About Me
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=realSamy)
-[![Python](https://img.shields.io/badge/Telegram-b8e9ff?style=flat&logo=telegram)](https://t.me/realSamy)
-[![Python](https://img.shields.io/badge/Instagram-ffbde7?style=flat&logo=instagram)](https://instagram.com/realSamyPV)
 
+Hi, I'm **Saman Hoodaji** – a full-stack developer with a strong focus on backend development. I work with Python, PHP, and JavaScript ecosystems. I enjoy turning ideas into code, solving complex problems, and contributing to meaningful projects.
 
-Hi! I'm Saman Hoodaji. Learning and coding are my main habits! Btw let's say less and do more! <br> 
-Contributions and new ideas are always welcome!
+📬 Feel free to connect with me:
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/realSamy)
 
-## Languages I usually use:
-![Python](https://img.shields.io/badge/-Python-001142?style=for-the-badge&logo=python)
-![Php](https://img.shields.io/badge/-Php-002242?style=for-the-badge&logo=php)
-![HTML](https://img.shields.io/badge/-Html5-4a1100?style=for-the-badge&logo=html5)
-![Css](https://img.shields.io/badge/-Css3-black?style=for-the-badge&logo=css3)
-![Js](https://img.shields.io/badge/-Javascript-423a00?style=for-the-badge&logo=javascript)
+---
 
-## Frameworks I usually use:
-![Django](https://img.shields.io/badge/-Django-gray?style=for-the-badge&logo=django)
-![Laravel](https://img.shields.io/badge/-Laravel-4a1100?style=for-the-badge&logo=laravel)
-![VueJS](https://img.shields.io/badge/-Vue.JS-0f4200?style=for-the-badge&logo=vue.js)
+## 🧰 Languages & Tools
 
-## Other Technologies:
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-230042?style=flat-square&logo=bootstrap)
-![GitHub](https://img.shields.io/badge/-GitHub-gray?style=flat-square&logo=github)
-![Git](https://img.shields.io/badge/-Git-4a1100?style=flat-square&logo=git)
-![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-101010?style=flat-square&logo=microsoft-azure)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-gray?style=flat-square&logo=amazon-aws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-001142?style=flat-square&logo=google-cloud)
-![Redis](https://img.shields.io/badge/-Redis-420b00?style=flat-square&logo=Redis)
-![MongoDB](https://img.shields.io/badge/-MongoDB-0f4200?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-002242?style=flat-square&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-003742?style=flat-square&logo=mysql)
-![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat-square&logo=heroku)
-![Docker](https://img.shields.io/badge/-Docker-001442?style=flat-square&logo=docker)
+### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+
+### 🧱 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=nuxt&logoColor=white)
+
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
